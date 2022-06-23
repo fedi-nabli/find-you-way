@@ -1,0 +1,14 @@
+{
+  "name": "find-your-way",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.18.0",
+    "@tensorflow/tfjs-node": "^3.18.0",
+    "gtts": "^0.2.1"
+  }
+}
